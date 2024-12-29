@@ -1,3 +1,3 @@
 # python-github
 
-python github project
+My first Python project on GitHub!
